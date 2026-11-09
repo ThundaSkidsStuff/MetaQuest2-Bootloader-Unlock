@@ -16,7 +16,7 @@ if [ ! -f "$DEST/$FILE" ]; then
     exit 1
 fi
 
-echo "[+] File created successfully!"
+echo "[+] OH MY GOD, WE ARE ABLE TO MODIFY BOOTTABLES"
 sleep 1
 
 echo
