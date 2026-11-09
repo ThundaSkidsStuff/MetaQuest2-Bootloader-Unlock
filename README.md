@@ -1,2 +1,3 @@
 # MetaQuest2-Bootloader-Unlock
-uses an issue from metas end to forcibly validate Any ota.
+this uses CVE-2026-100001 BootQuest
+this also works when modifying trustzone, just add the ```offset: value``` you want it to be
